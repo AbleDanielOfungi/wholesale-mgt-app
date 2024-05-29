@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "230102696865",
+    "project_id": "wholesense-de00a",
+    "storage_bucket": "wholesense-de00a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230102696865:android:816f4a332e62280d7b41e0",
+        "android_client_info": {
+          "package_name": "com.example.wholesense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi5deD3awbcH2KX7SJKkFDHjZTcPj3yeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
